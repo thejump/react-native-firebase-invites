@@ -60,7 +60,7 @@ public class FirebaseInvites extends ReactContextBaseJavaModule {
     _activity.runOnUiThread(new Runnable() {
       @Override
       public void run() {
-        new GoogleApiClient.Builder(_activity.getBaseContext())
+        new GoogleApiClient.Builder(getReactApplicationContext())
           .addApi(AppInvite.API)
           //.enableAutoManage(_activity, _activity.getBaseContext())
           .build();
