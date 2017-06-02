@@ -30,10 +30,13 @@ repositories {
 
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
+
     compile 'com.android.support:appcompat-v7:25.3.0'
     compile 'com.facebook.react:react-native:+'
     compile 'com.google.firebase:firebase-invites:10.0.1'
 }
+
+
 
 
 apply plugin: 'com.google.gms.google-services'
