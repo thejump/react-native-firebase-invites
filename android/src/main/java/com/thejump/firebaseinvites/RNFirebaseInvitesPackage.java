@@ -11,7 +11,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import com.thejump.firebaseinvites.RNFirebaseInvitesModule;
 
 public class RNFirebaseInvitesPackage implements ReactPackage {
     @Override

@@ -49,8 +49,8 @@
       <file leaf-file-name="RNFirebaseInvitesModule.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/thejump/firebaseinvites/RNFirebaseInvitesModule.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="35" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="35" />
+            <state relative-caret-position="350">
+              <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,8 +61,8 @@
       <file leaf-file-name="RNFirebaseInvitesPackage.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/thejump/firebaseinvites/RNFirebaseInvitesPackage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state relative-caret-position="465">
+              <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -1009,9 +1009,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/slowpath/googleappinvites/RNGoogleAppInvitesModule.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/slowpath/googleappinvites/RNGoogleAppInvitesPackage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/thejump/firebaseinvites/RNGoogleAppInvitesPackage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/thejump/firebaseinvites/RNFirebaseInvitesPackage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/thejump/firebaseinvites/RNFirebaseInvitesModule.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/thejump/firebaseinvites/MainActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/thejump/firebaseinvites/RNFirebaseInvitesPackage.java" />
       </list>
     </option>
   </component>
@@ -1602,8 +1602,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/thejump/firebaseinvites/RNFirebaseInvitesModule.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="35" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="35" />
+        <state relative-caret-position="350">
+          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1612,8 +1612,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/thejump/firebaseinvites/RNFirebaseInvitesPackage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        <state relative-caret-position="465">
+          <caret line="31" column="39" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
