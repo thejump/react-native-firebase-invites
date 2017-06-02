@@ -1,7 +1,4 @@
-var {
-  NativeModules: {
-    RNFirebaseInvites
-  }
-} = require('react-native');
+'use strict';
 
-module.exports = RNFirebaseInvites;
+import { NativeModules } from 'react-native';
+module.exports = NativeModules.RNFirebaseInvites;
