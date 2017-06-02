@@ -24,21 +24,21 @@ import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.WritableMap;
 import com.facebook.react.bridge.WritableArray;
 
-public class RNFirebaseInvitesModule extends ReactContextBaseJavaModule {
+public class FirebaseInvites extends ReactContextBaseJavaModule {
   public static final int RC_APP_INVITES_IN = 9002;
   private static final int RESULT_OK = -1;
 
   private Activity _activity;
   private static ReactApplicationContext _context;
 
-  public RNFirebaseInvitesModule(ReactApplicationContext _reactContext) {
+  public FirebaseInvites(ReactApplicationContext _reactContext) {
     super(_reactContext);
     _context = _reactContext;
   }
 
   @Override
   public String getName() {
-    return "RNFirebaseInvite";
+    return "FirebaseInvites";
   }
 
   public static void invitationsSentSuccessfully(String[] ids) {

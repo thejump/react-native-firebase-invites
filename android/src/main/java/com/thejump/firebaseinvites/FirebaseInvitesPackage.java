@@ -12,12 +12,12 @@ import java.util.Collections;
 import java.util.List;
 
 
-public class RNFirebaseInvitesPackage implements ReactPackage {
+public class FirebaseInvitesPackage implements ReactPackage {
     @Override
     public List<NativeModule> createNativeModules(ReactApplicationContext reactContext) {
         List<NativeModule> modules = new ArrayList<>();
 
-        modules.add(new RNFirebaseInvitesModule(reactContext));
+        modules.add(new FirebaseInvites(reactContext));
 
         return modules;
     }
