@@ -1,0 +1,25 @@
+{
+  "name": "react-native-firebase-invites",
+  "version": "0.2.6",
+  "description": "Firebase App Invites for your react native applications",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "firebase invites",
+    "ios",
+    "android"
+  ],
+  "author": {
+    "name": "Jeremey Charbonnet",
+    "email": "admin@thejump.com",
+    "url": "http://www.thejump.com"
+  },
+  "peerDependencies": {
+    "react-native": ">= 0.44"
+  },
+  "license": "MIT"
+}
