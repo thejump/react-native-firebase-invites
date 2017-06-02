@@ -31,10 +31,9 @@ public class RNFirebaseInvitesModule extends ReactContextBaseJavaModule {
   private Activity _activity;
   private static ReactApplicationContext _context;
 
-  public RNFirebaseInvitesModule(ReactApplicationContext _reactContext, Activity activity) {
+  public RNFirebaseInvitesModule(ReactApplicationContext _reactContext) {
     super(_reactContext);
     _context = _reactContext;
-    _activity = activity;
   }
 
   @Override
@@ -57,6 +56,7 @@ public class RNFirebaseInvitesModule extends ReactContextBaseJavaModule {
 
   @ReactMethod
   public void init() {
+    _activity = getCurrentActivity();
     _activity.runOnUiThread(new Runnable() {
       @Override
       public void run() {
