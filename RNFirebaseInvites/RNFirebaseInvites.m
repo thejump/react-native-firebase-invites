@@ -1,7 +1,7 @@
 #import "RNFirebaseInvites.h"
 #import "RCTEventDispatcher.h"
 
-@implementation RNFirebaseInvites
+@implementation FirebaseInvites
 
 static NSString* kTrackingID = @"YOUR_TRACKING_ID";
 

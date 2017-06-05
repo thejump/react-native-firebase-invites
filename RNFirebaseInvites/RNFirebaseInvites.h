@@ -7,7 +7,7 @@
 
 @class GGLContext;
 
-@interface RNGoogleAppInvites : NSObject<RCTBridgeModule, GINInviteDelegate, GIDSignInDelegate, GIDSignInUIDelegate>
+@interface FirebaseInvites : NSObject<RCTBridgeModule, GINInviteDelegate, GIDSignInDelegate, GIDSignInUIDelegate>
 
 @property (strong, nonatomic) id<GINInviteBuilder> inviteDialog;
 
